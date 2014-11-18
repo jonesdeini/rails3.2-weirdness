@@ -1,1 +1,0 @@
-http://stackoverflow.com/questions/26986260/activerecordrelation-getting-methods-added-to-it
