@@ -1,5 +1,4 @@
 class Bro < ActiveRecord::Base
-  attr_accessible :cool_story
 
   scope :hey_bro, -> { where(nil) }
 
